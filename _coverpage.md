@@ -1,12 +1,9 @@
 ![logo](https://img.xumis.top/favicon.svg)
 
-# docsify <small>3.5</small>
+# 藏书阁
+## 须弥山之巅的电子书库
 
-> 一个神奇的文档网站生成器。
+> 收录各类优质电子书，随时随地阅读。
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[开始阅读](#藏书阁)  # 点击跳转到首页
+[GitHub](https://github.com/oiiiiii/books/)
